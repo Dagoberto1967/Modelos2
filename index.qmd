@@ -1,5 +1,5 @@
 ---
-title: "CONCEPTOS FUNDAMENTALES Y VARIABLES"  # Título principal del documento
+title: "MODELOS DISCRETOS"  # Título principal del documento
 subtitle: "TALLER_1"  # Subtítulo del documento
 date: today  # Fecha actual en formato español
 author:  # Información sobre los autores
